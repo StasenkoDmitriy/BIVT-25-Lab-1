@@ -109,10 +109,8 @@
             // code here
             int c = 0;
             int d = 0;
-            White white = new White();
             for (int i = 0; i<X; i++)
             {
-                Console.WriteLine(i);
                 if (i%2==0)
                 {
                     c += Y;
